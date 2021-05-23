@@ -20,6 +20,24 @@
 
 | Topic | Link of Topic |
 | ------------ | ------------ |
+| Read 01 | [Growth Mindset](https://abdelqader7.github.io/reading-notes/growth-mindset) |
+| Read 02 | [ Learning Markdown](https://abdelqader7.github.io/reading-notes/read-01) |
+| Read 03 | [Git Intro](https://abdelqader7.github.io/reading-notes/read-02) |
+| Read 04 | [HTML](https://abdelqader7.github.io/reading-notes/read-03) | 
+| Read 05 | [CSS](https://abdelqader7.github.io/reading-notes/read-03b) |
+| Read 06 | [JavaScript](https://abdelqader7.github.io/reading-notes/read-04a) |
+| Read 07 | [Operators & Loops](https://abdelqader7.github.io/reading-notes/read-05) |
+| Read 08 | [Programming with JavaScript](https://abdelqader7.github.io/reading-notes/read-06) |
+| Read 09 | [read 07]( ) |
+| Read 10 | [Git Intro](https://abdelqader7.github.io/reading-notes/read-02) |
+| Read 11 | [HTML](https://abdelqader7.github.io/reading-notes/read-03) | 
+| Read 12 | [CSS](https://abdelqader7.github.io/reading-notes/read-03b) |
+| Read 13 | [JavaScript](https://abdelqader7.github.io/reading-notes/read-04a) |
+| Read 14a | [Operators & Loops](https://abdelqader7.github.io/reading-notes/read-05) |
+| Read 14b | [Programming with JavaScript](https://abdelqader7.github.io/reading-notes/read-06) |
+
+| Topic | Link of Topic |
+| ------------ | ------------ |
 | Lab 01b | [Growth Mindset](https://abdelqader7.github.io/reading-notes/growth-mindset) |
 | Read 01 | [ Learning Markdown](https://abdelqader7.github.io/reading-notes/read-01) |
 | Read 02 | [Git Intro](https://abdelqader7.github.io/reading-notes/read-02) |
