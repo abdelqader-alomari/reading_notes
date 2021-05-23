@@ -28,4 +28,4 @@
 | Read 04a | [JavaScript](https://abdelqader7.github.io/reading-notes/read-04a) |
 | Read 05 | [Operators & Loops](https://abdelqader7.github.io/reading-notes/read-05) |
 | Read 06 | [Programming with JavaScript](https://abdelqader7.github.io/reading-notes/read-06) |
-| Read 07 | [read 07] ( ) |
+| Read 07 | [read 07]( ) |
