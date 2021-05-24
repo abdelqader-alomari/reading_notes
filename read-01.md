@@ -1,4 +1,4 @@
-### class-01 - overview reading HTML & CSS Duckett book:
+### Class-01 - Overview reading HTML & CSS Duckett book:
 ## Structure:
 * HTML pages are text documents.
 * HTML uses tags (characters that sit inside angled brackets) to give the information they surround special meaning.
@@ -30,7 +30,7 @@ information about your web page.
 characters in your pages such as <, >, and ©.
 
 ## HTML5 Layout:
-* The new HTML5 elements i XX ndicate the purpose of
+* The new HTML5 elements indicate the purpose of
 different parts of a web page and help to describe
 its structure.
 * The new elements provide clearer code (compared
@@ -43,7 +43,7 @@ block-level elements.
 which is available free from Google.
 
 ## Process & Design:
-* It's important to understand w XX ho your target audience
+* It's important to understand who your target audience
 is, why they would come to your site, what information
 they want to find and when they are likely to return.
 * Site maps allow you to plan the structure of a site.
@@ -56,4 +56,4 @@ using size, color, and style.
 * You can use grouping and similarity to help simplify
 the information you present.
 
-*I've read pages carefully and I find that summary for each Chapter is good enough so I type it.*
+*I've read pages carefully and found the summary for each chapter is good enough so I typed it.*
