@@ -31,9 +31,9 @@ several properties in one declaration, each separated by a semi-colon.
 Properties indicate the aspects of the element you want to change. For example, color, font, width, height and border.
 Values specify the settings you want to use for the chosen properties.
 * Using External CSS: <link> inside the head and tell the browser where to find The CSS file, href: specifies the path to the CSS file, type: specifies the type of document being linked to, rel: This specifies the relationship between the HTML page and the file it is linked to.
-* When building a site with more than one page, you should use an external CSS style sheet. This: ● Allows all pages to use the same style rules (rather than repeating them in each page).
-● Keeps the content separate from how the page looks.
-● Means you can change the styles used across all pages by altering just one file (rather than each individual page).
+* When building a site with more than one page, you should use an external CSS style sheet. This: * Allows all pages to use the same style rules (rather than repeating them in each page).
+* Keeps the content separate from how the page looks.
+* Means you can change the styles used across all pages by altering just one file (rather than each individual page).
 * Selectors: Universal Selector '* {}' Targets all elements on page, Type Selector 'h1, h2, h3 {}' Targets the <h1>, <h2> and <h3> elements,
 Cl ass Selector '.note {}' Targets any element whose class attribute has a value of note, ID Selector '#introduction {}'Targets the element whose id attribute has a value of introduction.
 
