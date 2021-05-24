@@ -11,7 +11,7 @@
 | Read 06 | [Read 06](https://abdelqader-alomari.github.io/reading_notes/read-06) |
 | Read 07 | [Read 07](https://abdelqader-alomari.github.io/reading_notes/read-07) |
 | Read 08 | [Read 08](https://abdelqader-alomari.github.io/reading_notes/read-08) |
-| Read 09 | [read 09](https://abdelqader-alomari.github.io/reading_notes/read-09) |
+| Read 09 | [Read 09](https://abdelqader-alomari.github.io/reading_notes/read-09) |
 | Read 10 | [Read 10](https://abdelqader-alomari.github.io/reading_notes/read-10) |
 | Read 11 | [Read 11](https://abdelqader-alomari.github.io/reading_notes/read-11) | 
 | Read 12 | [Read 12](https://abdelqader-alomari.github.io/reading_notes/read-12) |
@@ -31,4 +31,3 @@
 | Read 04a | [JavaScript](https://abdelqader7.github.io/reading-notes/read-04a) |
 | Read 05 | [Operators & Loops](https://abdelqader7.github.io/reading-notes/read-05) |
 | Read 06 | [Programming with JavaScript](https://abdelqader7.github.io/reading-notes/read-06) |
-| Read 07 | [read 07]( ) |
