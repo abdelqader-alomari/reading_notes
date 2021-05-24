@@ -1,4 +1,4 @@
-### class-01 - overview reading HTML & CSS Duckett book:
+### Class-01 - Overview reading HTML & CSS Duckett book:
 ## Structure:
 * HTML pages are text documents.
 * HTML uses tags (characters that sit inside angled brackets) to give the information they surround special meaning.
@@ -56,4 +56,4 @@ using size, color, and style.
 * You can use grouping and similarity to help simplify
 the information you present.
 
-*I've read pages carefully and I find that summary for each Chapter is good enough so I type it.*
+*I've read pages carefully and found the summary for each chapter is good enough so I typed it.*
