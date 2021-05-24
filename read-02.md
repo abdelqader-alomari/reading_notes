@@ -13,7 +13,7 @@ the page (e.g. headings, subheadings, paragraphs).
 * They also provide semantic information (e.g. where
 emphasis should be placed, the definition of any
 acronyms used, when given text is a quotation).
-* '<p>' create paragraphs, '<b>' make text bold, '<i>' Italtic, '<sup>' contain superscript char. '<sub>' contain subscript char. , '<br />' make breakline
+* '<p>' create paragraphs, '<b>' make text bold, '<i>' Italtic, '<'sup'>' contain superscript char. '<'sub'>' contain subscript char. , '<br />' make breakline
 '<hr />' create horizontal rule between sections. '<strong>' make text strong importance by browser, '<em>' Make italic improtance by browser.
 '<blockquote>' used for longer quotes, '<q>' for short quotes, '<abbr>' for use an abbreviation or an acronym, '<cite>' indicate where the citation from, '<dfn>' efining instance of a new term. '<address>' to contain
 contact details for the author. '<ins>' inserted content, '<del>' deleted content, '<s>' Show that not availabe content but not deleted.
