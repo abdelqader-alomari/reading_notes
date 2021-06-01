@@ -35,6 +35,8 @@ Resolution refers to the number of dots a screen shows per inch.
 #### Page Sizes:
 web designers often create pages of around **960-1000** pixels wide.
 *many designs let the user know that site is about 570- 600 pixels top.
+
+
 ![Layout example](https://i.ibb.co/gP9zbBJ/layout.png)
 
 #### Fixed Width Layout:
