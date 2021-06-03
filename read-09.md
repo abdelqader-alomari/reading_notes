@@ -163,7 +163,7 @@ When JavaScript is used in HTML pages, JavaScript can "react" on these events.
 
 | Event | Description |
 |---------|------------|
-| input | Value in any <input> or <textarea> element has changed |
+| input | Value in any `<input>` or `<textarea>` element has changed |
 | change | Value in select box, checkbox, or radio button changes |
 | submit | User submits a form (using a button or a key) |
 | cut | User cuts content from a form field |
