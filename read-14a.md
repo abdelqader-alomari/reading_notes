@@ -91,6 +91,7 @@ The transform-origin property can accept one or two values. When only one value 
 #### Perspective Depth Value:
 
 the length value will set the depth of the perspective. The higher the value, the further away the perspective appears
+<<<<<<< HEAD
 
 ## CSS Transitions:
 
@@ -108,3 +109,5 @@ the length value will set the depth of the perspective. The higher the value, th
   background: #ff7b29;
 }
 `
+=======
+>>>>>>> f792d892a5a682356ed6e0c09db6b8db567c6a49
