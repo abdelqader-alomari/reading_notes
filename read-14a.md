@@ -1,5 +1,7 @@
 ## CSS Transforms:
 
+![CSS Transforms](https://miro.medium.com/max/900/1*_6MfwckxNfQTca9SiG8MdQ.png)
+
 it's new way to layout with alternative way to size, position, and change elements. it comes with two-dimensional and three-dimensional.
 
 ### Transform Syntax:
@@ -91,7 +93,8 @@ The transform-origin property can accept one or two values. When only one value 
 #### Perspective Depth Value:
 
 the length value will set the depth of the perspective. The higher the value, the further away the perspective appears
-<<<<<<< HEAD
+
+![Transforms](https://www.dmxzone.com/downloads/images/css_transforms_ss.png)
 
 ## CSS Transitions:
 
@@ -107,7 +110,71 @@ the length value will set the depth of the perspective. The higher the value, th
 }
 .box:hover {
   background: #ff7b29;
-}
-`
-=======
->>>>>>> f792d892a5a682356ed6e0c09db6b8db567c6a49
+}`
+
+### Transitional Property
+
+transition-property property determines exactly what properties will be altered in conjunction with the other transitional properties and  identified within the transition-property value will be affected by any transitions.
+
+#### Transitional Properties
+
+* background-color 
+* background-position
+* border-color 
+* border-width 
+* border-spacing 
+* bottom 
+* clip 
+* color 
+* crop
+* font-size
+* font-weight
+* height
+* left
+* letter-spacing
+* line-height
+* margin
+* max-height
+* max-width
+* min-height
+* min-width
+* opacity
+* outline-color
+* outline-offset
+* outline-width
+* padding
+* right
+* text-indent
+* text-shadow
+* top
+* vertical-align
+* visibility
+* width
+* word-spacing
+* z-index
+
+### Translation Timing:
+
+The duration in which a transition takes place is set using the transition-duration property. The value of this property can be set using general timing values, including seconds (s) and milliseconds (ms). These timing values may also come in fractional measurements, .2s for example. you can set it for multiple by separate values by comma.
+
+
+### Transition Delay
+
+On top of declaring the transition property, duration, and timing function, you can also set a delay with the transition-delay property. The delay sets a time value, seconds or milliseconds, that determines how long a transition should be stalled before executing. As with all other transition properties, to delay numerous transitions, each delay can be declared as comma separated values.
+
+#### Shorthand:
+
+`transition: background .2s linear, border-radius 1s ease-in 1s;`
+
+
+## Animations:
+
+![Summary of Animations in picture](https://webartdevelopers.com/blog/wp-content/uploads/2018/10/Motion-UI-CSS-Animation-Library.gif)
+
+CSS animations allow you to build complex animated sequences. Like transitions, they manipulate the CSS properties that control how interface elements appear. Unlike transitions, they are not tied to shifts between style sheets that distinguish interface states.
+
+### Animations Keyframes:
+
+to create animation use  @keyframes rule includes the animation name, any animation breakpoints, and the properties intended to be animated.
+
+[Simulator site to show CSS Animations](https://designlink.work/responsive-simulator/animatecss/)
