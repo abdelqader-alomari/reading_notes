@@ -8,7 +8,7 @@
 
 - A software component can be defined as a unit of composition with a contractually specified interface and explicit context dependencies only. That is, a software component can be independent and is subject to composition by third parties.
 
-- #### A component can have three different views:
+- ### A component can have three different views:
 
 1. object-oriented view (viewed as a set of one or more cooperating classes)
 2. conventional view (viewed as a functional element that integrates the processing logic)
