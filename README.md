@@ -5,8 +5,8 @@
 | Topic   | Link of Topic                                                                                       |
 | ------- | --------------------------------------------------------------------------------------------------- |
 | Read-01 | [Introduction to React and Components](https://abdelqader-alomari.github.io/reading_notes/class-01) |
-| Read-02 | [Read 02](https://abdelqader-alomari.github.io/reading_notes/class-02)                              |
-| Read-03 | [Read 03](https://abdelqader-alomari.github.io/reading_notes/class-03)                              |
+| Read-02 | [State and Props](https://abdelqader-alomari.github.io/reading_notes/class-02)                      |
+| Read-03 | [Passing Functions as Props](https://abdelqader-alomari.github.io/reading_notes/class-03)           |
 | Read-04 | [Read 04](https://abdelqader-alomari.github.io/reading_notes/class-04)                              |
 | Read-05 | [Read 05](https://abdelqader-alomari.github.io/reading_notes/class-05)                              |
 | Read-06 | [Read 06](https://abdelqader-alomari.github.io/reading_notes/class-06)                              |
