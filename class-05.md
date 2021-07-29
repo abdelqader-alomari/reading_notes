@@ -1,4 +1,4 @@
-### Read: Class 05 - thinking in React:
+### Read: Class 05 - Thinking in React:
 
 ![React - Paradox Statement](https://miro.medium.com/max/3410/1*Dee4cg5Hzg7JME1A9tjZJQ.png)
 
@@ -50,3 +50,10 @@ if the answer of any of these questions: yes, so it's not state.
 - If you can’t find a component where it makes sense to own the state, create a new component solely for holding the state and add it somewhere in the hierarchy above the common owner component.
 
 ![Component Life Cycle](https://www.wikitechy.com/tutorials/react/img/reactjs-images/ReactJS-components-life-cycle.png)
+
+---
+
+## Things I want to know more about
+
+Go deeply into component Hierarchy, Paradox Statement and Component Life Cycle
+Today the subject "Thinking in React" and all content is important and need to explore.

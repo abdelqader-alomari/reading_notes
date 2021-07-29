@@ -7,8 +7,8 @@
 | Read-01 | [Introduction to React and Components](https://abdelqader-alomari.github.io/reading_notes/class-01) |
 | Read-02 | [State and Props](https://abdelqader-alomari.github.io/reading_notes/class-02)                      |
 | Read-03 | [Passing Functions as Props](https://abdelqader-alomari.github.io/reading_notes/class-03)           |
-| Read-04 | [Read 04](https://abdelqader-alomari.github.io/reading_notes/class-04)                              |
-| Read-05 | [Read 05](https://abdelqader-alomari.github.io/reading_notes/class-05)                              |
+| Read-04 | [React and Forms](https://abdelqader-alomari.github.io/reading_notes/class-04)                      |
+| Read-05 | [Thinking in React](https://abdelqader-alomari.github.io/reading_notes/class-05)                    |
 | Read-06 | [Read 06](https://abdelqader-alomari.github.io/reading_notes/class-06)                              |
 | Read-07 | [Read 07](https://abdelqader-alomari.github.io/reading_notes/class-07)                              |
 | Read-08 | [Read 08](https://abdelqader-alomari.github.io/reading_notes/class-08)                              |
