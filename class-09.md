@@ -44,4 +44,4 @@ after describe the file name and path, Add the code, compile, and run it
 
 ### Things I want to know more about
 
-Of course more about node.js and modules !.
+Of course more about node.js and modules and Functional Programming !
