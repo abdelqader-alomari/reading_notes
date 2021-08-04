@@ -24,7 +24,7 @@ URIs should be based on nouns (the resource)
 
 example of a good URL is http://www.microsoft.com, which is the link to Microsoft's web page. A URL, which stands for uniform resource locator, is a formatted text string used by web browsers and other software to identify a network resource on the Internet.
 
-### **What does it mean to have a ‘chatty’ web API? Is this a good ### **or a bad thing?\*\*
+### **What does it mean to have a ‘chatty’ web API? Is this a good or a bad thing?**
 
 "chatty" web APIs that expose a large number of small resources. Such an API may require a client application to send multiple requests to find all of the data that requires.
 bad or good? It's a bad thing and we should avoid using it.
