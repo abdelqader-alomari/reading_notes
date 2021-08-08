@@ -10,11 +10,11 @@
 | Read-04 | [React and Forms](https://abdelqader-alomari.github.io/reading_notes/class-04)                      |
 | Read-05 | [Thinking in React](https://abdelqader-alomari.github.io/reading_notes/class-05)                    |
 | Read-06 | [NODE.JS](https://abdelqader-alomari.github.io/reading_notes/class-06)                              |
-| Read-07 | [Read 07](https://abdelqader-alomari.github.io/reading_notes/class-07)                              |
-| Read-08 | [Read 08](https://abdelqader-alomari.github.io/reading_notes/class-08)                              |
-| Read-09 | [Read 09](https://abdelqader-alomari.github.io/reading_notes/class-09)                              |
-| Read-10 | [Read 10](https://abdelqader-alomari.github.io/reading_notes/class-10)                              |
-| Read-11 | [Read 11](https://abdelqader-alomari.github.io/reading_notes/class-11)                              |
+| Read-07 | [REST](https://abdelqader-alomari.github.io/reading_notes/class-07)                                 |
+| Read-08 | [API Design Best Practices](https://abdelqader-alomari.github.io/reading_notes/class-08)            |
+| Read-09 | [Functional Programming Concepts](https://abdelqader-alomari.github.io/reading_notes/class-09)      |
+| Read-10 | [JS Debugging](https://abdelqader-alomari.github.io/reading_notes/class-10)                         |
+| Read-11 | [Authentication](https://abdelqader-alomari.github.io/reading_notes/class-11)                       |
 | Read-12 | [Read 12](https://abdelqader-alomari.github.io/reading_notes/class-12)                              |
 | Read-13 | [Read 13](https://abdelqader-alomari.github.io/reading_notes/class-13)                              |
 | Read-14 | [Read 14](https://abdelqader-alomari.github.io/reading_notes/class-14)                              |
