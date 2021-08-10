@@ -16,7 +16,7 @@
 | Read-10 | [JS Debugging](https://abdelqader-alomari.github.io/reading_notes/class-10)                         |
 | Read-11 | [Authentication](https://abdelqader-alomari.github.io/reading_notes/class-11)                       |
 | Read-12 | [Mongo and Mongoose](https://abdelqader-alomari.github.io/reading_notes/class-12)                   |
-| Read-13 | [Read 13](https://abdelqader-alomari.github.io/reading_notes/class-13)                              |
+| Read-13 | [Status Codes Based On REST Methods](https://abdelqader-alomari.github.io/reading_notes/class-13)   |
 | Read-14 | [Read 14](https://abdelqader-alomari.github.io/reading_notes/class-14)                              |
 | Read-15 | [Read 15](https://abdelqader-alomari.github.io/reading_notes/class-15)                              |
 
