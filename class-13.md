@@ -29,3 +29,7 @@ Permanent redirect
 403 Forbidden - The client has authorized or doesn’t need to authorize itself, but still has no permissions to access the resource.
 
 ---
+
+## Things I want to know more about
+
+Using CRUD professionally.
