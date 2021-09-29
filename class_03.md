@@ -10,7 +10,7 @@
 
 - Java performs a conversion between the primitive and reference types if an actual type is different from the declared one:
 
-The decision what object is to be used is based on what application performance we try to achieve, how much available memory we have, the amount of available memory and what default values we should handle.
+- The decision what object is to be used is based on what application performance we try to achieve, how much available memory we have, the amount of available memory and what default values we should handle.
 
 the primitive type variables have the following impact on the memory:
 
