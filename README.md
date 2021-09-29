@@ -5,9 +5,9 @@
 | Topic   | Link of Topic                                                                            |
 | ------- | ---------------------------------------------------------------------------------------- |
 | Read-01 | [Java Basics](https://abdelqader-alomari.github.io/reading_notes/read_01)                |
-| Read-02 | [Read 02](https://abdelqader-alomari.github.io/reading_notes/read_02)                    |
+| Read-02 | [Arrays, Loops, Imports](https://abdelqader-alomari.github.io/reading_notes/read_02)     |
 | Read-03 | [Maps, primitives, File I/O](https://abdelqader-alomari.github.io/reading_notes/read_03) |
-| Read-04 | [Read 04](https://abdelqader-alomari.github.io/reading_notes/read_04)                    |
+| Read-04 | [OOP](https://abdelqader-alomari.github.io/reading_notes/read_04)                        |
 | Read-05 | [Read 05](https://abdelqader-alomari.github.io/reading_notes/read_05)                    |
 | Read-06 | [Read 06](https://abdelqader-alomari.github.io/reading_notes/read_06)                    |
 | Read-07 | [Read 07](https://abdelqader-alomari.github.io/reading_notes/read_07)                    |
