@@ -8,8 +8,7 @@
 | Read-02 | [Arrays, Loops, Imports](https://abdelqader-alomari.github.io/reading_notes/read_02)     |
 | Read-03 | [Maps, primitives, File I/O](https://abdelqader-alomari.github.io/reading_notes/read_03) |
 | Read-04 | [OOP](https://abdelqader-alomari.github.io/reading_notes/read_04)                        |
-| Read-05 | [Read 05](https://abdelqader-alomari.github.io/reading_notes/read_05)                    |
-| Read-06 | [Read 06](https://abdelqader-alomari.github.io/reading_notes/read_06)                    |
+| Read-06 | [Inheritance and Interfaces](https://abdelqader-alomari.github.io/reading_notes/read_06) |
 | Read-07 | [Read 07](https://abdelqader-alomari.github.io/reading_notes/read_07)                    |
 | Read-08 | [Read 08](https://abdelqader-alomari.github.io/reading_notes/read_08)                    |
 | Read-09 | [Read 09](https://abdelqader-alomari.github.io/reading_notes/read_09)                    |
