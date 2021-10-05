@@ -9,8 +9,7 @@
 | Read-03 | [Maps, primitives, File I/O](https://abdelqader-alomari.github.io/reading_notes/read_03) |
 | Read-04 | [OOP](https://abdelqader-alomari.github.io/reading_notes/read_04)                        |
 | Read-06 | [Inheritance and Interfaces](https://abdelqader-alomari.github.io/reading_notes/read_06) |
-| Read-07 | [Read 07](https://abdelqader-alomari.github.io/reading_notes/read_07)                    |
-| Read-08 | [Read 08](https://abdelqader-alomari.github.io/reading_notes/read_08)                    |
+| Read-08 | [OO Design](https://abdelqader-alomari.github.io/reading_notes/read_08)                  |
 | Read-09 | [Read 09](https://abdelqader-alomari.github.io/reading_notes/read_09)                    |
 | Read-10 | [Read 10](https://abdelqader-alomari.github.io/reading_notes/read_10)                    |
 | Read-11 | [Read 11](https://abdelqader-alomari.github.io/reading_notes/read_11)                    |
