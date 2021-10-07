@@ -11,7 +11,7 @@ Depending on how in depth you want to get, much can happen during this step depe
 Your browser extracts the "scheme"/protocol (we have established that this will be HTTP), host (www.example.com),
 and optional port number, resource path, and query strings that are specified in the form
 
-<protocol>://<host><:optional port>/<path/to/resource><?query>. An example is |http|://|www.example.com||:5000||/mainpage||?query=param&query2=param2|
+` <protocol>://<host><:optional port>/<path/to/resource><?query>` . An example is ` |http|://|www.example.com||:5000||/mainpage||?query=param&query2=param2| `
 
 Now that the browser has the intended hostname for the request, it needs to resolve an IP address1. The browser will then look through its own cache of recently requested URLs, the operating system’s cache of recent queries, your router’s cache, and your DNS cache.
 
