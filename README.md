@@ -2,44 +2,44 @@
 
 ### **Code 401 - Advanced Software Development**
 
-| Topic   | Link of Topic                                                                            |
-| ------- | ---------------------------------------------------------------------------------------- |
-| Read-01 | [Java Basics](https://abdelqader-alomari.github.io/reading_notes/read_01)                |
-| Read-02 | [Arrays, Loops, Imports](https://abdelqader-alomari.github.io/reading_notes/read_02)     |
-| Read-03 | [Maps, primitives, File I/O](https://abdelqader-alomari.github.io/reading_notes/read_03) |
-| Read-04 | [OOP](https://abdelqader-alomari.github.io/reading_notes/read_04)                        |
-| Read-06 | [Inheritance and Interfaces](https://abdelqader-alomari.github.io/reading_notes/read_06) |
-| Read-08 | [OO Design](https://abdelqader-alomari.github.io/reading_notes/read_08)                  |
-| Read-09 | [WRRC and Java](https://abdelqader-alomari.github.io/reading_notes/read_09)              |
-| Read-10 | [Stacks and Queues](https://abdelqader-alomari.github.io/reading_notes/read_10)          |
-| Read-11 | [Spring](https://abdelqader-alomari.github.io/reading_notes/read_11)                     |
-| Read-12 | [Read 12](https://abdelqader-alomari.github.io/reading_notes/read_12)                    |
-| Read-13 | [Read 13](https://abdelqader-alomari.github.io/reading_notes/read_13)                    |
-| Read-14 | [Read 14](https://abdelqader-alomari.github.io/reading_notes/read_14)                    |
-| Read-15 | [Read 15](https://abdelqader-alomari.github.io/reading_notes/read_15)                    |
-| Read-16 | [Read 16](https://abdelqader-alomari.github.io/reading_notes/read_16)                    |
-| Read-17 | [Read 17](https://abdelqader-alomari.github.io/reading_notes/read_17)                    |
-| Read-18 | [Read 18](https://abdelqader-alomari.github.io/reading_notes/read_18)                    |
-| Read-19 | [Read 19](https://abdelqader-alomari.github.io/reading_notes/read_19)                    |
-| Read-26 | [Read 26](https://abdelqader-alomari.github.io/reading_notes/read_26)                    |
-| Read-27 | [Read 27](https://abdelqader-alomari.github.io/reading_notes/read_27)                    |
-| Read-28 | [Read 28](https://abdelqader-alomari.github.io/reading_notes/read_28)                    |
-| Read-29 | [Read 29](https://abdelqader-alomari.github.io/reading_notes/read_29)                    |
-| Read-30 | [Read 30](https://abdelqader-alomari.github.io/reading_notes/read_30)                    |
-| Read-31 | [Read 31](https://abdelqader-alomari.github.io/reading_notes/read_31)                    |
-| Read-32 | [Read 32](https://abdelqader-alomari.github.io/reading_notes/read_32)                    |
-| Read-33 | [Read 33](https://abdelqader-alomari.github.io/reading_notes/read_33)                    |
-| Read-34 | [Read 34](https://abdelqader-alomari.github.io/reading_notes/read_34)                    |
-| Read-35 | [Read 35](https://abdelqader-alomari.github.io/reading_notes/read_35)                    |
-| Read-36 | [Read 36](https://abdelqader-alomari.github.io/reading_notes/read_36)                    |
-| Read-37 | [Read 37](https://abdelqader-alomari.github.io/reading_notes/read_37)                    |
-| Read-38 | [Read 38](https://abdelqader-alomari.github.io/reading_notes/read_38)                    |
-| Read-39 | [Read 39](https://abdelqader-alomari.github.io/reading_notes/read_39)                    |
-| Read-40 | [Read 40](https://abdelqader-alomari.github.io/reading_notes/read_40)                    |
-| Read-41 | [Read 41](https://abdelqader-alomari.github.io/reading_notes/read_41)                    |
-| Read-42 | [Read 42](https://abdelqader-alomari.github.io/reading_notes/read_42)                    |
-| Read-43 | [Read 43](https://abdelqader-alomari.github.io/reading_notes/read_43)                    |
-| Read-44 | [Read 44](https://abdelqader-alomari.github.io/reading_notes/read_44)                    |
+| Topic   | Link of Topic                                                                                       |
+| ------- | --------------------------------------------------------------------------------------------------- |
+| Read-01 | [Java Basics](https://abdelqader-alomari.github.io/reading_notes/read_01)                           |
+| Read-02 | [Arrays, Loops, Imports](https://abdelqader-alomari.github.io/reading_notes/read_02)                |
+| Read-03 | [Maps, primitives, File I/O](https://abdelqader-alomari.github.io/reading_notes/read_03)            |
+| Read-04 | [OOP](https://abdelqader-alomari.github.io/reading_notes/read_04)                                   |
+| Read-06 | [Inheritance and Interfaces](https://abdelqader-alomari.github.io/reading_notes/read_06)            |
+| Read-08 | [OO Design](https://abdelqader-alomari.github.io/reading_notes/read_08)                             |
+| Read-09 | [WRRC and Java](https://abdelqader-alomari.github.io/reading_notes/read_09)                         |
+| Read-10 | [Stacks and Queues](https://abdelqader-alomari.github.io/reading_notes/read_10)                     |
+| Read-11 | [Spring](https://abdelqader-alomari.github.io/reading_notes/read_11)                                |
+| Read-12 | [Spring RESTful Routing & Static Files](https://abdelqader-alomari.github.io/reading_notes/read_12) |
+| Read-13 | [Read 13](https://abdelqader-alomari.github.io/reading_notes/read_13)                               |
+| Read-14 | [Read 14](https://abdelqader-alomari.github.io/reading_notes/read_14)                               |
+| Read-15 | [Read 15](https://abdelqader-alomari.github.io/reading_notes/read_15)                               |
+| Read-16 | [Read 16](https://abdelqader-alomari.github.io/reading_notes/read_16)                               |
+| Read-17 | [Read 17](https://abdelqader-alomari.github.io/reading_notes/read_17)                               |
+| Read-18 | [Read 18](https://abdelqader-alomari.github.io/reading_notes/read_18)                               |
+| Read-19 | [Read 19](https://abdelqader-alomari.github.io/reading_notes/read_19)                               |
+| Read-26 | [Read 26](https://abdelqader-alomari.github.io/reading_notes/read_26)                               |
+| Read-27 | [Read 27](https://abdelqader-alomari.github.io/reading_notes/read_27)                               |
+| Read-28 | [Read 28](https://abdelqader-alomari.github.io/reading_notes/read_28)                               |
+| Read-29 | [Read 29](https://abdelqader-alomari.github.io/reading_notes/read_29)                               |
+| Read-30 | [Read 30](https://abdelqader-alomari.github.io/reading_notes/read_30)                               |
+| Read-31 | [Read 31](https://abdelqader-alomari.github.io/reading_notes/read_31)                               |
+| Read-32 | [Read 32](https://abdelqader-alomari.github.io/reading_notes/read_32)                               |
+| Read-33 | [Read 33](https://abdelqader-alomari.github.io/reading_notes/read_33)                               |
+| Read-34 | [Read 34](https://abdelqader-alomari.github.io/reading_notes/read_34)                               |
+| Read-35 | [Read 35](https://abdelqader-alomari.github.io/reading_notes/read_35)                               |
+| Read-36 | [Read 36](https://abdelqader-alomari.github.io/reading_notes/read_36)                               |
+| Read-37 | [Read 37](https://abdelqader-alomari.github.io/reading_notes/read_37)                               |
+| Read-38 | [Read 38](https://abdelqader-alomari.github.io/reading_notes/read_38)                               |
+| Read-39 | [Read 39](https://abdelqader-alomari.github.io/reading_notes/read_39)                               |
+| Read-40 | [Read 40](https://abdelqader-alomari.github.io/reading_notes/read_40)                               |
+| Read-41 | [Read 41](https://abdelqader-alomari.github.io/reading_notes/read_41)                               |
+| Read-42 | [Read 42](https://abdelqader-alomari.github.io/reading_notes/read_42)                               |
+| Read-43 | [Read 43](https://abdelqader-alomari.github.io/reading_notes/read_43)                               |
+| Read-44 | [Read 44](https://abdelqader-alomari.github.io/reading_notes/read_44)                               |
 
 ### **Code 301 - Intermediate Software Development**
 
