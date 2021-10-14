@@ -16,7 +16,7 @@
 | Read-12                                                       | [Spring RESTful Routing & Static Files](https://abdelqader-alomari.github.io/reading_notes/read_12)         |
 | Read-13                                                       | [relationship annotation & integration testing](https://abdelqader-alomari.github.io/reading_notes/read_13) |
 | Read-14                                                       | [Read 14](https://abdelqader-alomari.github.io/reading_notes/read_14)                                       |
-| Read-15                                                       | [Trees]((https://abdelqader-alomari.github.io/reading_notes/read_15)                                        |
+| Read-15                                                       | [Trees](https://abdelqader-alomari.github.io/reading_notes/read_15)                                        |
 | Read-16                                                       | [Read 16](https://abdelqader-alomari.github.io/reading_notes/read_16)                                       |
 | Read-17                                                       | [Read 17](https://abdelqader-alomari.github.io/reading_notes/read_17)                                       |
 | Read-18                                                       | [Read 18](https://abdelqader-alomari.github.io/reading_notes/read_18)                                       |
