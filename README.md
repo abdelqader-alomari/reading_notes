@@ -2,7 +2,6 @@
 
 ### **Code 401 - Advanced Software Development**
 
-<<<<<<< HEAD
 | Topic | Link of Topic |
 | ------- | ----------------------------------------------------------------------------------------------------------- |
 | Read-01 | [Java Basics](https://abdelqader-alomari.github.io/reading_notes/read_01) |
