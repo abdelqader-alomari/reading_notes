@@ -76,7 +76,7 @@
 | Read 09  | [Forms and Events](https://abdelqader-alomari.github.io/reading_notes/read-09)                                               |
 | Read 10  | [JS Debugging](https://abdelqader-alomari.github.io/reading_notes/read-10)                                                   |
 | Read 11  | [Assorted Topics](https://abdelqader-alomari.github.io/reading_notes/read-11)                                                |
-| Read 12  | [ Docs for the HTML <canvas> Element & Chart.js](https://abdelqader-alomari.github.io/reading_notes/read-12)                 |
+| Read 12  | [HTML canvas Element & Chart.js](https://abdelqader-alomari.github.io/reading_notes/read-12)                                 |
 | Read 13  | [Local Storage](https://abdelqader-alomari.github.io/reading_notes/read-13)                                                  |
 | Read 14a | [CSS Transforms, Transitions, and Animations](https://abdelqader-alomari.github.io/reading_notes/read-14a)                   |
 | Read 14b | [What Google Learned About Teams](https://abdelqader-alomari.github.io/reading_notes/read-14b)                               |
