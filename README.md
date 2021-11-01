@@ -22,7 +22,7 @@
 | Read-18 | [Web App Security](https://abdelqader-alomari.github.io/reading_notes/read_18)                              |
 | Read-19 | [Spring and Sockets](https://abdelqader-alomari.github.io/reading_notes/read_19)                            |
 | Read-26 | [Android fundamentals](https://abdelqader-alomari.github.io/reading_notes/read_26)                          |
-| Read-27 | [Read 27](https://abdelqader-alomari.github.io/reading_notes/read_27)                                       |
+| Read-27 | [Intents, Activities, and SharedPreferences](https://abdelqader-alomari.github.io/reading_notes/read_27)    |
 | Read-28 | [Read 28](https://abdelqader-alomari.github.io/reading_notes/read_28)                                       |
 | Read-29 | [Read 29](https://abdelqader-alomari.github.io/reading_notes/read_29)                                       |
 | Read-30 | [Read 30](https://abdelqader-alomari.github.io/reading_notes/read_30)                                       |
