@@ -1,6 +1,6 @@
 # Android Tasks and the Back Stack
 
-![](https://miro.medium.com/freeze/max/360/1*lhJ4d1GEkJCWkkw4Ii4itg.gif)
+![Tasks & Back Stack](https://miro.medium.com/freeze/max/360/1*lhJ4d1GEkJCWkkw4Ii4itg.gif)
 
 - Task is a stack of activities
 
@@ -25,8 +25,8 @@
 ## Manage Tasks
 
 - How can you start an activity whitout creating a new instance on top of the back stack?
-- with attributes in the <activity> manifest element and with flags in the - intent that you pass to startActivity().
-- principal <activity> attributes can be used.
+- with attributes in the `<activity>` manifest element and with flags in the - intent that you pass to startActivity().
+- principal `<activity>` attributes can be used.
   - taskAffinity
   - launchMode
   - allowTaskReparenting
@@ -40,7 +40,7 @@
 
 ## 4 launchMode attributes
 
-![](https://miro.medium.com/max/1104/1*TpJZEIiD_U6yGc_WmNw0VQ.png)
+![launchMode attributes](https://miro.medium.com/max/1104/1*TpJZEIiD_U6yGc_WmNw0VQ.png)
 
 - **"standard": default, can be instantiated multiple times, can belong to fidderent taks and one taks can have multiple instances**
 
@@ -61,7 +61,7 @@
 
 ## Android Shared Preferences
 
-![](https://miro.medium.com/max/4148/1*55Ywb_zdKBgK6PhZSnW2iA.png)
+![Shared Preferences](https://miro.medium.com/max/4148/1*55Ywb_zdKBgK6PhZSnW2iA.png)
 
 - getSharedPreferences() — Use this if you need multiple shared preference files identified by name, which you specify with the first parameter. You can call this from any Context in your app.
 - getPreferences() — Use this from an Activity if you need to use only one shared preference file for the activity. Because this retrieves a default shared preference file that belongs to the activity, you don't need to supply a name.
