@@ -24,7 +24,7 @@
 | Read-26 | [Android fundamentals](https://abdelqader-alomari.github.io/reading_notes/read_26)                          |
 | Read-27 | [Intents, Activities, and SharedPreferences](https://abdelqader-alomari.github.io/reading_notes/read_27)    |
 | Read-28 | [RecyclerView](https://abdelqader-alomari.github.io/reading_notes/read_28)                                  |
-| Read-29 | [Read 29](https://abdelqader-alomari.github.io/reading_notes/read_29)                                       |
+| Read-29 | [Room](https://abdelqader-alomari.github.io/reading_notes/read_29)                                       |
 | Read-30 | [Read 30](https://abdelqader-alomari.github.io/reading_notes/read_30)                                       |
 | Read-31 | [Read 31](https://abdelqader-alomari.github.io/reading_notes/read_31)                                       |
 | Read-32 | [Read 32](https://abdelqader-alomari.github.io/reading_notes/read_32)                                       |
