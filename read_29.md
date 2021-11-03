@@ -1,12 +1,12 @@
 # Read: 29 - Room
 
-# Room
+## Room
 
 ![Library](https://developer.android.com/images/training/data-storage/room_architecture.png)
 
 - The Room persistence library provides an abstraction layer over SQLite to allow fluent database access while harnessing the full power of SQLite.
 
-### Room provides the following benefits:
+### Room provides the following benefits
 
 - Compile-time verification of SQL queries.
 - Convenience annotations that minimize repetitive and error-prone boilerplate code.
@@ -62,7 +62,7 @@ implementation "androidx.room:room-paging:2.4.0-alpha04"
 
 ## DAO
 
-![](https://www.journaldev.com/wp-content/uploads/2018/04/android-room-structure-docs.png)
+![DAO](https://www.journaldev.com/wp-content/uploads/2018/04/android-room-structure-docs.png)
 
 - Is either an interface or an abstract class. For basic use cases, you should usually use an interface. In either case, you must always annotate your DAOs with @Dao. DAOs don't have properties, but they do define one or more methods for interacting with the data in your app's database. => ( @Insert, @Delete, @Update, @Query).
 
