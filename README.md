@@ -26,8 +26,8 @@
 | Read-28 | [RecyclerView](https://abdelqader-alomari.github.io/reading_notes/read_28)                                  |
 | Read-29 | [Room](https://abdelqader-alomari.github.io/reading_notes/read_29)                                          |
 | Read-30 | [Hash Tables](https://abdelqader-alomari.github.io/reading_notes/read_30)                                   |
-| Read-31 | [Espresso](https://abdelqader-alomari.github.io/reading_notes/read_31)                                       |
-| Read-32 | [Read 32](https://abdelqader-alomari.github.io/reading_notes/read_32)                                       |
+| Read-31 | [Espresso](https://abdelqader-alomari.github.io/reading_notes/read_31)                                      |
+| Read-32 | [Serverless and Amplify](https://abdelqader-alomari.github.io/reading_notes/read_32)                        |
 | Read-33 | [Read 33](https://abdelqader-alomari.github.io/reading_notes/read_33)                                       |
 | Read-34 | [Read 34](https://abdelqader-alomari.github.io/reading_notes/read_34)                                       |
 | Read-35 | [Read 35](https://abdelqader-alomari.github.io/reading_notes/read_35)                                       |
