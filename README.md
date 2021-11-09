@@ -28,7 +28,7 @@
 | Read-30 | [Hash Tables](https://abdelqader-alomari.github.io/reading_notes/read_30)                                   |
 | Read-31 | [Espresso](https://abdelqader-alomari.github.io/reading_notes/read_31)                                      |
 | Read-32 | [Serverless and Amplify](https://abdelqader-alomari.github.io/reading_notes/read_32)                        |
-| Read-33 | [Read 33](https://abdelqader-alomari.github.io/reading_notes/read_33)                                       |
+| Read-33 | [GraphQL @connection](https://abdelqader-alomari.github.io/reading_notes/read_33)                           |
 | Read-34 | [Read 34](https://abdelqader-alomari.github.io/reading_notes/read_34)                                       |
 | Read-35 | [Read 35](https://abdelqader-alomari.github.io/reading_notes/read_35)                                       |
 | Read-36 | [Read 36](https://abdelqader-alomari.github.io/reading_notes/read_36)                                       |
