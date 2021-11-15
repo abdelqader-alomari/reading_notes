@@ -31,7 +31,7 @@
 | Read-33 | [GraphQL @connection](https://abdelqader-alomari.github.io/reading_notes/read_33)                           |
 | Read-34 | [Android Monetization](https://abdelqader-alomari.github.io/reading_notes/read_34)                          |
 | Read-35 | [Graphs](https://abdelqader-alomari.github.io/reading_notes/read_35)                                       |
-| Read-36 | [Read 36](https://abdelqader-alomari.github.io/reading_notes/read_36)                                       |
+| Read-36 | [Cognito](https://abdelqader-alomari.github.io/reading_notes/read_36)                                       |
 | Read-37 | [Read 37](https://abdelqader-alomari.github.io/reading_notes/read_37)                                       |
 | Read-38 | [Read 38](https://abdelqader-alomari.github.io/reading_notes/read_38)                                       |
 | Read-39 | [Read 39](https://abdelqader-alomari.github.io/reading_notes/read_39)                                       |
