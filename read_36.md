@@ -29,7 +29,8 @@ To push your changes to the cloud, execute the command:
 
 add this in build.gradle then click on sync:
 
-```dependencies {
+```
+dependencies {
     implementation 'com.amplifyframework:aws-auth-cognito:1.28.3'
 }
 ```
@@ -38,7 +39,7 @@ add this in build.gradle then click on sync:
 
 Add the Auth plugin before calling Amplify.configure. Update the code you added in Prerequisites:
 
-``` 
+```
 // Add this line, to include the Auth plugin.
 Amplify.addPlugin(new AWSCognitoAuthPlugin());
 Amplify.configure(getApplicationContext());
@@ -89,6 +90,6 @@ Amplify.Auth.signIn(
 );
 ```
 
-## References:
+## References
 
 [Amplify and Cognito](https://aws-amplify.github.io/docs/android/authentication)
