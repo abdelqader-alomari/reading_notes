@@ -33,7 +33,7 @@
 | Read-35 | [Graphs](https://abdelqader-alomari.github.io/reading_notes/read_35)                                        |
 | Read-36 | [Cognito](https://abdelqader-alomari.github.io/reading_notes/read_36)                                       |
 | Read-37 | [Amazon S3](https://abdelqader-alomari.github.io/reading_notes/read_37)                                     |
-| Read-38 | [Read 38](https://abdelqader-alomari.github.io/reading_notes/read_38)                                       |
+| Read-38 | [Notifications](https://abdelqader-alomari.github.io/reading_notes/read_38)                                 |
 | Read-39 | [Read 39](https://abdelqader-alomari.github.io/reading_notes/read_39)                                       |
 | Read-40 | [Read 40](https://abdelqader-alomari.github.io/reading_notes/read_40)                                       |
 | Read-41 | [Read 41](https://abdelqader-alomari.github.io/reading_notes/read_41)                                       |
