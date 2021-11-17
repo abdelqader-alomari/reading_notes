@@ -34,7 +34,7 @@
 | Read-36 | [Cognito](https://abdelqader-alomari.github.io/reading_notes/read_36)                                       |
 | Read-37 | [Amazon S3](https://abdelqader-alomari.github.io/reading_notes/read_37)                                     |
 | Read-38 | [Notifications](https://abdelqader-alomari.github.io/reading_notes/read_38)                                 |
-| Read-39 | [Read 39](https://abdelqader-alomari.github.io/reading_notes/read_39)                                       |
+| Read-39 | [Amplify and Kinesis](https://abdelqader-alomari.github.io/reading_notes/read_39)                           |
 | Read-40 | [Read 40](https://abdelqader-alomari.github.io/reading_notes/read_40)                                       |
 | Read-41 | [Read 41](https://abdelqader-alomari.github.io/reading_notes/read_41)                                       |
 | Read-42 | [Read 42](https://abdelqader-alomari.github.io/reading_notes/read_42)                                       |
