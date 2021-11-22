@@ -36,7 +36,7 @@
 | Read-38 | [Notifications](https://abdelqader-alomari.github.io/reading_notes/read_38)                                 |
 | Read-39 | [Amplify and Kinesis](https://abdelqader-alomari.github.io/reading_notes/read_39)                           |
 | Read-41 | [Intent Filters](https://abdelqader-alomari.github.io/reading_notes/read_41)                                       |
-| Read-42 | [Read 42](https://abdelqader-alomari.github.io/reading_notes/read_42)                                       |
+| Read-42 | [Location](https://abdelqader-alomari.github.io/reading_notes/read_42)                                       |
 | Read-43 | [Read 43](https://abdelqader-alomari.github.io/reading_notes/read_43)                                       |
 | Read-44 | [Read 44](https://abdelqader-alomari.github.io/reading_notes/read_44)                                       |
 
