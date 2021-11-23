@@ -38,7 +38,7 @@
 | Read-41   | [Intent Filters](https://abdelqader-alomari.github.io/reading_notes/read_41)                                |
 | Read-42   | [Location](https://abdelqader-alomari.github.io/reading_notes/read_42)                                      |
 | Read-42.2 | [Ethics In Tech](https://abdelqader-alomari.github.io/reading_notes/read_42.2)                              |
-| Read-43   | [Read 43](https://abdelqader-alomari.github.io/reading_notes/read_43)                                       |
+| Read-43   | [OSS Contributions](https://abdelqader-alomari.github.io/reading_notes/read_43)                                       |
 | Read-44   | [Read 44](https://abdelqader-alomari.github.io/reading_notes/read_44)                                       |
 
 ### **Code 301 - Intermediate Software Development**
